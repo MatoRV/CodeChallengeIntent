@@ -27,9 +27,10 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void empezarSegundaActividad(View view) {
-        envioDeDatos();
+        envioDeDatos(String.valueOf(R.string.button_2_message));
     }
 
     public void empezarTerceraActividad(View view) {
+        envioDeDatos(String.valueOf(R.string.button_3_message));
     }
 }
