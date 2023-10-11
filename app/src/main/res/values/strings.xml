@@ -1,3 +1,52 @@
 <resources>
     <string name="app_name">CodeChallengeIntent</string>
+    <string name="button_1">Actividad 1</string>
+    <string name="button_2">Actividad 2</string>
+    <string name="button_3">Actividad 3</string>
+    <string name="button_1_message">
+        <b>Parte 1:\n</b>
+        Scar: La vida no es justa ¿verdad?..., verás, yo nunca seré
+        rey y tú, ja ja ja ja ja tú nunca verás la luz del siguiente día...
+        adiós.\n
+        Zazú: (grita) ...Nunca te dijo tu madre que no jugaras con la comida\n
+        Scar: Y ahora que quieres... me hiciste perder mi comida.\n
+        Zazú: Perderás más que eso cuando el rey termine contigo. Faltaste a la
+        ceremonia y el rey Mufasa está en camino y está furioso contigo.\n
+        Scar: Mmm... estoy temblando del miedo\n
+        Zazú: Scar no me mires así\n
+        Mufasa: Scar suéltalo\n
+        Zazú: Siempre tan oportuno majestad\n
+        Scar: Vaya, mi amado hermano desciende del Olimpo para mezclarse con
+        sus plebeyos.\n
+        Mufasa: Sarabi y yo no te vimos en la presentación de Simba\n
+        Scar: Ah... era hoy... me siento tan... se me debe haber pasado\n
+        Zazú: Si, eso es algo imperdonable. Como hermano del rey tú debiste
+        estar en primera fila.\n
+        Scar: ¡Yo estaba en primera fila!...hasta que llegó esa bola de pelo\n
+        Mufasa: La bola de pelo es mi hijo y tu futuro rey\n
+        Scar: Oh!... ensayaré mi reverencia\n
+        Mufasa: No me des la espalda a mi Scar\n
+        Scar: Ah no Mufasa, será mejor que tú no me la des a mi\n
+        Mufasa: ¿Es un reto Scar?\n
+        Scar: Calma, calma,... jamás me atrevería a retarte\n
+        Zazú: Lástima...¿por qué no?\n
+        Scar: En la inteligencia yo tengo la parte del león, pero en cuanto a la
+        fuerza bruta creo que no recibí buena herencia hermano\n
+        Zazú: Ah, hay uno en cada familia, dos en la mía, y siempre arruinan las ceremonias
+        reales\n
+        Mufasa: Ah, que voy a hacer con él\n
+        Zazú: Sería una excelente alfombra\n
+        Mufasa: Zazú...\n
+        Zazú: Y además cuando se ensucie puede sacarlo y azotarlo\n
+    </string>
+    <string name="button_2_message">
+        <b>Parte 2:\n</b>
+        Mufasa: Mira Simba, todo lo que toca la luz es de nuestro reino.\n
+        Simba: Guau...\n
+        Mufasa: El tiempo de un soberano asciende y desciende como el sol, algún día Simba, el
+        sol se pondrá en mi reinado y saldrá contigo siendo el nuevo rey\n
+        Simba: ¿Y todo esto será mío?\n
+        Mufasa: Todo hijo\n
+
+    </string>
 </resources>
