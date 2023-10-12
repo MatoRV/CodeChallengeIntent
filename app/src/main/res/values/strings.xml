@@ -1,9 +1,9 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">CodeChallengeIntent</string>
     <string name="button_1">Actividad 1</string>
     <string name="button_2">Actividad 2</string>
     <string name="button_3">Actividad 3</string>
-    <string name="button_1_message">
+    <string name="button_1_message" tools:ignore="TypographyEllipsis">
         <b>Parte 1:\n</b>
         Scar: La vida no es justa ¿verdad?..., verás, yo nunca seré
         rey y tú, ja ja ja ja ja tú nunca verás la luz del siguiente día...
@@ -39,7 +39,7 @@
         Mufasa: Zazú...\n
         Zazú: Y además cuando se ensucie puede sacarlo y azotarlo\n
     </string>
-    <string name="button_2_message">
+    <string name="button_2_message" tools:ignore="TypographyEllipsis">
         <b>Parte 2:\n</b>
         Mufasa: Mira Simba, todo lo que toca la luz es de nuestro reino.\n
         Simba: Guau...\n
@@ -99,7 +99,7 @@
         Zazú: ah, joven príncipe, algún día tu serás rey y podrás corretear a esos
         animalejosroñosos y torpes desde el alba hasta el anochece\n
     </string>
-    <string name="button_3_message">
+    <string name="button_3_message" tools:ignore="TypographyEllipsis">
         <b>Parte 3:\n</b>
         Simba:
 tío Scar adivina\n
